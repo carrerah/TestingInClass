@@ -7,3 +7,6 @@ Changing again the test file
 new changes!!
 
 new one!
+
+
+testing the staging area
